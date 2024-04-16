@@ -8,8 +8,6 @@ from random import randrange
 
 answer = WordList[randrange(0, len(WordList))].upper()
 
-answer = "SHANK"
-
 correctionsHistory = []
 
 TotalTurns = 6
